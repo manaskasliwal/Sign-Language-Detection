@@ -24,4 +24,4 @@ The dataset for this project can be found at https://www.kaggle.com/datamunge/si
 - Scikit-Learn
 
 ### Results
-After training the model using CNN I got an acuuracy of approx 93%.
+After training the model using CNN I got an acuuracy of approx 92%.
